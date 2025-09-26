@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trueamin&label=Profile%20views&color=0e75b6&style=flat" alt="trueamin" /> </p>
 
-- 🔭 I’m currently working on **PAHRIS-IoT & Security of power networks**
+- 🔭 I’m currently working on **PAHIRS-IoT & Security of power networks**
 
 - 🌱 I’m currently learning **Machine learning, Javascript**
 
